@@ -1,0 +1,478 @@
+[
+  {
+    "id": 1,
+    "name": "Alison Tiao",
+    "profile": "media/1/profile.jpg",
+    "samples": [
+      "media/1/sample_1.jpg",
+      "media/1/sample_2.jpg",
+      "media/1/sample_3.jpg"
+    ],
+    "status": "ok"
+  },
+  {
+    "id": 2,
+    "name": "Xing Chen",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 3,
+    "name": "Chloe",
+    "profile": "media/3/profile.jpg",
+    "samples": [],
+    "status": "partial"
+  },
+  {
+    "id": 4,
+    "name": "Tianqi Luo",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 5,
+    "name": "Sarah Lou Haddad",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 6,
+    "name": "Xinyu",
+    "profile": "media/6/profile.png",
+    "samples": [
+      "media/6/sample_1.jpg",
+      "media/6/sample_2.jpg"
+    ],
+    "status": "partial"
+  },
+  {
+    "id": 7,
+    "name": "Abigail Ford",
+    "profile": "media/7/profile.jpg",
+    "samples": [
+      "media/7/sample_1.jpg",
+      "media/7/sample_2.jpg",
+      "media/7/sample_3.jpg"
+    ],
+    "status": "ok"
+  },
+  {
+    "id": 8,
+    "name": "Molly Milkers",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 9,
+    "name": "Chad",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 10,
+    "name": "Marshall Wang",
+    "profile": "media/10/profile.jpg",
+    "samples": [
+      "media/10/sample_1.jpg",
+      "media/10/sample_2.jpg"
+    ],
+    "status": "partial"
+  },
+  {
+    "id": 11,
+    "name": "Rebeca Zimmermann",
+    "profile": "media/11/profile.png",
+    "samples": [
+      "media/11/sample_1.jpg",
+      "media/11/sample_2.jpg",
+      "media/11/sample_3.png"
+    ],
+    "status": "ok"
+  },
+  {
+    "id": 12,
+    "name": "Raquel Ortiz",
+    "profile": "media/12/profile.png",
+    "samples": [
+      "media/12/sample_1.png",
+      "media/12/sample_2.jpg",
+      "media/12/sample_3.jpg"
+    ],
+    "status": "ok"
+  },
+  {
+    "id": 13,
+    "name": "Manu",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 14,
+    "name": "Mengxi Zhang",
+    "profile": "media/14/profile.jpg",
+    "samples": [],
+    "status": "partial"
+  },
+  {
+    "id": 15,
+    "name": "Liz Eagles",
+    "profile": "media/15/profile.jpg",
+    "samples": [],
+    "status": "partial"
+  },
+  {
+    "id": 16,
+    "name": "Ben Griffin",
+    "profile": "media/16/profile.png",
+    "samples": [
+      "media/16/sample_1.png",
+      "media/16/sample_2.jpg",
+      "media/16/sample_3.png"
+    ],
+    "status": "ok"
+  },
+  {
+    "id": 17,
+    "name": "Samantha Feliciano (Princesa)",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 18,
+    "name": "Nolan",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 19,
+    "name": "Elle",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 20,
+    "name": "Tori Cho",
+    "profile": "media/20/profile.jpg",
+    "samples": [
+      "media/20/sample_1.jpg",
+      "media/20/sample_2.jpg"
+    ],
+    "status": "partial"
+  },
+  {
+    "id": 21,
+    "name": "Tianyun Chen (spec collective)",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 22,
+    "name": "Eevee",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 23,
+    "name": "Vilma Duplantier",
+    "profile": "media/23/profile.jpg",
+    "samples": [],
+    "status": "partial"
+  },
+  {
+    "id": 24,
+    "name": "Lori ortiz",
+    "profile": "media/24/profile.jpg",
+    "samples": [
+      "media/24/sample_1.jpg",
+      "media/24/sample_2.jpg",
+      "media/24/sample_3.jpg"
+    ],
+    "status": "ok"
+  },
+  {
+    "id": 25,
+    "name": "nikki hartmann",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 26,
+    "name": "Sekou Copeland",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 27,
+    "name": "Hand Coffman",
+    "profile": "media/27/profile.jpg",
+    "samples": [
+      "media/27/sample_1.jpg",
+      "media/27/sample_2.jpg",
+      "media/27/sample_3.jpg"
+    ],
+    "status": "ok"
+  },
+  {
+    "id": 28,
+    "name": "Hayden Brown",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 29,
+    "name": "Chad eary",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 30,
+    "name": "Alexander Kwabena Dwumor",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 31,
+    "name": "Abdallatif Ali",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 32,
+    "name": "Michelle Biagi",
+    "profile": "media/32/profile.jpg",
+    "samples": [
+      "media/32/sample_1.jpg",
+      "media/32/sample_2.jpg",
+      "media/32/sample_3.jpg"
+    ],
+    "status": "ok"
+  },
+  {
+    "id": 33,
+    "name": "Danielle Gadus",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 34,
+    "name": "Danielle Parsons",
+    "profile": "media/34/profile.jpg",
+    "samples": [
+      "media/34/sample_1.jpg",
+      "media/34/sample_2.jpg",
+      "media/34/sample_3.jpg"
+    ],
+    "status": "ok"
+  },
+  {
+    "id": 35,
+    "name": "Jake Gibson",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 36,
+    "name": "Corey Robinson",
+    "profile": "media/36/profile.jpg",
+    "samples": [
+      "media/36/sample_1.jpg",
+      "media/36/sample_2.jpg",
+      "media/36/sample_3.jpg"
+    ],
+    "status": "ok"
+  },
+  {
+    "id": 37,
+    "name": "Ryder Mamo",
+    "profile": "media/37/profile.png",
+    "samples": [
+      "media/37/sample_1.webp",
+      "media/37/sample_2.webp",
+      "media/37/sample_3.webp"
+    ],
+    "status": "ok"
+  },
+  {
+    "id": 38,
+    "name": "Camoni McClellan",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 39,
+    "name": "Samuel Abelow",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 40,
+    "name": "Maryangela",
+    "profile": "media/40/profile.jpg",
+    "samples": [
+      "media/40/sample_1.jpg",
+      "media/40/sample_2.jpg"
+    ],
+    "status": "partial"
+  },
+  {
+    "id": 41,
+    "name": "Sky Morales",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 42,
+    "name": "Devin joos",
+    "profile": "media/42/profile.jpg",
+    "samples": [
+      "media/42/sample_1.png",
+      "media/42/sample_2.jpg",
+      "media/42/sample_3.jpg"
+    ],
+    "status": "ok"
+  },
+  {
+    "id": 43,
+    "name": "Lucy Schwartzreich",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 44,
+    "name": "Lili Price",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 45,
+    "name": "Carey Linda Crooks",
+    "profile": "media/45/profile.png",
+    "samples": [],
+    "status": "partial"
+  },
+  {
+    "id": 46,
+    "name": "Qiaoyi",
+    "profile": "media/46/profile.jpg",
+    "samples": [
+      "media/46/sample_1.jpg",
+      "media/46/sample_2.jpg",
+      "media/46/sample_3.jpg"
+    ],
+    "status": "ok"
+  },
+  {
+    "id": 47,
+    "name": "Zoe",
+    "profile": "media/47/profile.png",
+    "samples": [
+      "media/47/sample_1.png",
+      "media/47/sample_2.png",
+      "media/47/sample_3.jpg"
+    ],
+    "status": "ok"
+  },
+  {
+    "id": 48,
+    "name": "Jeewon Kim",
+    "profile": "media/48/profile.png",
+    "samples": [
+      "media/48/sample_1.jpg",
+      "media/48/sample_2.png",
+      "media/48/sample_3.png"
+    ],
+    "status": "ok"
+  },
+  {
+    "id": 49,
+    "name": "Fumi Hata",
+    "profile": "media/49/profile.webp",
+    "samples": [],
+    "status": "partial"
+  },
+  {
+    "id": 50,
+    "name": "Samantha Alvarez",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 51,
+    "name": "Janeiry Martinez",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 52,
+    "name": "Randall Xiao",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 53,
+    "name": "Mia Lee Broadie",
+    "profile": null,
+    "samples": [],
+    "status": "empty"
+  },
+  {
+    "id": 54,
+    "name": "Elizabeth Gordon Stilwell",
+    "profile": "media/54/profile.jpg",
+    "samples": [
+      "media/54/sample_1.webp",
+      "media/54/sample_2.webp",
+      "media/54/sample_3.webp"
+    ],
+    "status": "ok"
+  },
+  {
+    "id": 55,
+    "name": "Klara Grochulska",
+    "profile": "media/55/profile.jpg",
+    "samples": [
+      "media/55/sample_1.jpg",
+      "media/55/sample_2.jpg",
+      "media/55/sample_3.jpg"
+    ],
+    "status": "ok"
+  },
+  {
+    "id": 56,
+    "name": "Klara Grochulska",
+    "profile": "media/56/profile.jpg",
+    "samples": [
+      "media/56/sample_1.jpg",
+      "media/56/sample_2.jpg",
+      "media/56/sample_3.jpg"
+    ],
+    "status": "ok"
+  }
+]

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Yituo Studio — Applicants</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,700&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="noise" aria-hidden="true"></div>
+
+  <header class="site-header">
+    <div class="brand-block">
+      <p class="eyebrow">Open House · Fall 2026</p>
+      <h1 class="brand">Yituo</h1>
+      <p class="lede">Browse studio applicants by practice, visit time, and what they need from the space.</p>
+    </div>
+    <div class="header-stats" id="stats" aria-live="polite"></div>
+  </header>
+
+  <section class="controls" aria-label="Filters">
+    <div class="search-row">
+      <label class="search">
+        <span class="sr-only">Search artists</span>
+        <input id="search" type="search" placeholder="Search name, practice, Instagram…" autocomplete="off" />
+      </label>
+      <div class="view-toggle" role="group" aria-label="View mode">
+        <button type="button" class="view-btn is-active" data-view="grid" aria-pressed="true">Grid</button>
+        <button type="button" class="view-btn" data-view="list" aria-pressed="false">List</button>
+      </div>
+    </div>
+
+    <div class="filter-block">
+      <p class="filter-label">Practice</p>
+      <div class="chip-row" id="tag-filters"></div>
+    </div>
+
+    <div class="filter-block">
+      <p class="filter-label">Open house</p>
+      <div class="chip-row" id="hour-filters"></div>
+    </div>
+
+    <div class="filter-block">
+      <p class="filter-label">Needs from studio</p>
+      <div class="chip-row" id="need-filters"></div>
+    </div>
+
+    <div class="filter-meta">
+      <label class="check">
+        <input type="checkbox" id="group-show" />
+        <span>Group show yes</span>
+      </label>
+      <label class="check">
+        <input type="checkbox" id="has-portfolio" />
+        <span>Has portfolio</span>
+      </label>
+      <label class="check">
+        <input type="checkbox" id="has-ig" />
+        <span>Has Instagram</span>
+      </label>
+      <label class="check">
+        <input type="checkbox" id="has-media" />
+        <span>Has scraped media</span>
+      </label>
+      <button type="button" class="clear-btn" id="clear-filters">Clear filters</button>
+    </div>
+  </section>
+
+  <main>
+    <p class="result-count" id="result-count"></p>
+    <div id="artist-grid" class="artist-grid"></div>
+    <p class="empty" id="empty" hidden>No applicants match these filters.</p>
+  </main>
+
+  <aside class="drawer" id="drawer" aria-hidden="true">
+    <div class="drawer-backdrop" data-close></div>
+    <div class="drawer-panel" role="dialog" aria-modal="true" aria-labelledby="drawer-name">
+      <button type="button" class="drawer-close" data-close aria-label="Close">×</button>
+      <div id="drawer-content"></div>
+    </div>
+  </aside>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
