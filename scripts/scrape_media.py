@@ -4,19 +4,19 @@ Scrape 1 profile/hero photo + up to 3 work samples per artist from their
 portfolio website (preferred) and/or public Instagram profile.
 
 Usage:
-  .venv/bin/pip install -r requirements.txt
-  .venv/bin/python scrape_media.py              # all artists
-  .venv/bin/python scrape_media.py --limit 5
-  .venv/bin/python scrape_media.py --id 3
-  .venv/bin/python scrape_media.py --refresh
-  .venv/bin/python scrape_media.py --skip-ig    # websites only (faster)
+  .venv/bin/pip install -r scripts/requirements.txt
+  .venv/bin/python scripts/scrape_media.py              # all artists
+  .venv/bin/python scripts/scrape_media.py --limit 5
+  .venv/bin/python scripts/scrape_media.py --id 3
+  .venv/bin/python scripts/scrape_media.py --refresh
+  .venv/bin/python scripts/scrape_media.py --skip-ig    # websites only (faster)
 
 Instagram note:
   Anonymous IG requests are usually blocked (401). To enable IG scraping,
   log in once, then re-run without --skip-ig:
 
     .venv/bin/instaloader --login YOUR_IG_USERNAME
-    IG_USER=YOUR_IG_USERNAME .venv/bin/python scrape_media.py
+    IG_USER=YOUR_IG_USERNAME .venv/bin/python scripts/scrape_media.py
 
 Images → media/<id>/   Updates artists.json + data.js for the website.
 """
@@ -37,7 +37,7 @@ from urllib.parse import parse_qsl, urlencode, urljoin, urlparse, urlunparse
 import requests
 from bs4 import BeautifulSoup
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent
 ARTISTS_PATH = ROOT / "artists.json"
 DATA_JS_PATH = ROOT / "data.js"
 MEDIA_DIR = ROOT / "media"

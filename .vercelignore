@@ -1,0 +1,6 @@
+scripts/
+.venv/
+__pycache__/
+*.pyc
+scrape_log.txt
+.DS_Store
