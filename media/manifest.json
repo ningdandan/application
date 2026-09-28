@@ -8,471 +8,941 @@
       "media/1/sample_2.jpg",
       "media/1/sample_3.jpg"
     ],
-    "status": "ok"
+    "sources": {},
+    "status": "cached",
+    "error": null
   },
   {
     "id": 2,
-    "name": "Xing Chen",
-    "profile": null,
+    "name": "Chloe",
+    "profile": "media/2/profile.jpg",
     "samples": [],
-    "status": "empty"
+    "sources": {
+      "site": "https://chloege.com",
+      "instagram": null
+    },
+    "status": "partial",
+    "error": null
   },
   {
     "id": 3,
-    "name": "Chloe",
-    "profile": "media/3/profile.jpg",
-    "samples": [],
-    "status": "partial"
+    "name": "Xinyu",
+    "profile": "media/3/profile.png",
+    "samples": [
+      "media/3/sample_1.jpg",
+      "media/3/sample_2.jpg",
+      "media/3/sample_3.jpg"
+    ],
+    "sources": {
+      "site": "https://woxinyu.com",
+      "instagram": null
+    },
+    "status": "ok",
+    "error": null
   },
   {
     "id": 4,
-    "name": "Tianqi Luo",
-    "profile": null,
-    "samples": [],
-    "status": "empty"
+    "name": "Marshall Wang",
+    "profile": "media/4/profile.jpg",
+    "samples": [
+      "media/4/sample_1.jpg",
+      "media/4/sample_2.jpg",
+      "media/4/sample_3.jpg"
+    ],
+    "sources": {
+      "site": "https://www.marshallwang.studio",
+      "instagram": null
+    },
+    "status": "ok",
+    "error": null
   },
   {
     "id": 5,
-    "name": "Sarah Lou Haddad",
-    "profile": null,
-    "samples": [],
-    "status": "empty"
+    "name": "Raquel Ortiz",
+    "profile": "media/5/profile.png",
+    "samples": [
+      "media/5/sample_1.png",
+      "media/5/sample_2.jpg",
+      "media/5/sample_3.jpg"
+    ],
+    "sources": {},
+    "status": "cached",
+    "error": null
   },
   {
     "id": 6,
-    "name": "Xinyu",
-    "profile": "media/6/profile.png",
-    "samples": [
-      "media/6/sample_1.jpg",
-      "media/6/sample_2.jpg"
-    ],
-    "status": "partial"
-  },
-  {
-    "id": 7,
-    "name": "Abigail Ford",
-    "profile": "media/7/profile.jpg",
-    "samples": [
-      "media/7/sample_1.jpg",
-      "media/7/sample_2.jpg",
-      "media/7/sample_3.jpg"
-    ],
-    "status": "ok"
-  },
-  {
-    "id": 8,
-    "name": "Molly Milkers",
-    "profile": null,
-    "samples": [],
-    "status": "empty"
-  },
-  {
-    "id": 9,
-    "name": "Chad",
-    "profile": null,
-    "samples": [],
-    "status": "empty"
-  },
-  {
-    "id": 10,
-    "name": "Marshall Wang",
-    "profile": "media/10/profile.jpg",
-    "samples": [
-      "media/10/sample_1.jpg",
-      "media/10/sample_2.jpg"
-    ],
-    "status": "partial"
-  },
-  {
-    "id": 11,
-    "name": "Rebeca Zimmermann",
-    "profile": "media/11/profile.png",
-    "samples": [
-      "media/11/sample_1.jpg",
-      "media/11/sample_2.jpg",
-      "media/11/sample_3.png"
-    ],
-    "status": "ok"
-  },
-  {
-    "id": 12,
-    "name": "Raquel Ortiz",
-    "profile": "media/12/profile.png",
-    "samples": [
-      "media/12/sample_1.png",
-      "media/12/sample_2.jpg",
-      "media/12/sample_3.jpg"
-    ],
-    "status": "ok"
-  },
-  {
-    "id": 13,
-    "name": "Manu",
-    "profile": null,
-    "samples": [],
-    "status": "empty"
-  },
-  {
-    "id": 14,
-    "name": "Mengxi Zhang",
-    "profile": "media/14/profile.jpg",
-    "samples": [],
-    "status": "partial"
-  },
-  {
-    "id": 15,
-    "name": "Liz Eagles",
-    "profile": "media/15/profile.jpg",
-    "samples": [],
-    "status": "partial"
-  },
-  {
-    "id": 16,
-    "name": "Ben Griffin",
-    "profile": "media/16/profile.png",
-    "samples": [
-      "media/16/sample_1.png",
-      "media/16/sample_2.jpg",
-      "media/16/sample_3.png"
-    ],
-    "status": "ok"
-  },
-  {
-    "id": 17,
-    "name": "Samantha Feliciano (Princesa)",
-    "profile": null,
-    "samples": [],
-    "status": "empty"
-  },
-  {
-    "id": 18,
     "name": "Nolan",
     "profile": null,
     "samples": [],
-    "status": "empty"
+    "sources": {
+      "site": "https://bikerac.myportfolio.com/",
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
   },
   {
-    "id": 19,
+    "id": 7,
     "name": "Elle",
     "profile": null,
     "samples": [],
-    "status": "empty"
+    "sources": {
+      "site": null,
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
   },
   {
-    "id": 20,
-    "name": "Tori Cho",
-    "profile": "media/20/profile.jpg",
-    "samples": [
-      "media/20/sample_1.jpg",
-      "media/20/sample_2.jpg"
-    ],
-    "status": "partial"
-  },
-  {
-    "id": 21,
+    "id": 8,
     "name": "Tianyun Chen (spec collective)",
     "profile": null,
     "samples": [],
-    "status": "empty"
+    "sources": {
+      "site": "https://drive.google.com/file/d/1X4RJXQFmCRyNg9kfEkj1go3Qs4Fr_frT/view?usp=sharing",
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
+  },
+  {
+    "id": 9,
+    "name": "Lori ortiz",
+    "profile": "media/9/profile.jpg",
+    "samples": [
+      "media/9/sample_1.jpg",
+      "media/9/sample_2.jpg",
+      "media/9/sample_3.jpg"
+    ],
+    "sources": {},
+    "status": "cached",
+    "error": null
+  },
+  {
+    "id": 10,
+    "name": "Hayden Brown",
+    "profile": null,
+    "samples": [],
+    "sources": {
+      "site": "https://drive.google.com/drive/mobile/folders/1wZDsroxTXZtxBSEzHrCwlRodaSOfmkxF?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto&sort=13&direction=a",
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
+  },
+  {
+    "id": 11,
+    "name": "Alexander Kwabena Dwumor",
+    "profile": null,
+    "samples": [],
+    "sources": {},
+    "status": "no_links",
+    "error": "No portfolio or Instagram"
+  },
+  {
+    "id": 12,
+    "name": "Jake Gibson",
+    "profile": null,
+    "samples": [],
+    "sources": {
+      "site": null,
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
+  },
+  {
+    "id": 13,
+    "name": "Ryder Mamo",
+    "profile": "media/13/profile.png",
+    "samples": [
+      "media/13/sample_1.webp",
+      "media/13/sample_2.webp",
+      "media/13/sample_3.webp"
+    ],
+    "sources": {},
+    "status": "cached",
+    "error": null
+  },
+  {
+    "id": 14,
+    "name": "Zoe",
+    "profile": "media/14/profile.png",
+    "samples": [
+      "media/14/sample_1.png",
+      "media/14/sample_2.png",
+      "media/14/sample_3.jpg"
+    ],
+    "sources": {},
+    "status": "cached",
+    "error": null
+  },
+  {
+    "id": 15,
+    "name": "Fumi Hata",
+    "profile": "media/15/profile.webp",
+    "samples": [
+      "media/15/sample_1.png"
+    ],
+    "sources": {
+      "site": "https://we.tl/t-4iGArd6xyrPt3qd2",
+      "instagram": null
+    },
+    "status": "partial",
+    "error": null
+  },
+  {
+    "id": 16,
+    "name": "Janeiry Martinez",
+    "profile": null,
+    "samples": [],
+    "sources": {
+      "site": null,
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
+  },
+  {
+    "id": 17,
+    "name": "Randall Xiao",
+    "profile": null,
+    "samples": [],
+    "sources": {
+      "site": null,
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
+  },
+  {
+    "id": 18,
+    "name": "Mia Lee Broadie",
+    "profile": null,
+    "samples": [],
+    "sources": {
+      "site": null,
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
+  },
+  {
+    "id": 19,
+    "name": "Enny",
+    "profile": null,
+    "samples": [],
+    "sources": {
+      "site": null,
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
+  },
+  {
+    "id": 20,
+    "name": "Taylah Peacock",
+    "profile": null,
+    "samples": [],
+    "sources": {
+      "site": "https://Taylahpeacock.com",
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
+  },
+  {
+    "id": 21,
+    "name": "Samantha Feliciano (Princesa)",
+    "profile": null,
+    "samples": [],
+    "sources": {
+      "site": null,
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
   },
   {
     "id": 22,
-    "name": "Eevee",
-    "profile": null,
-    "samples": [],
-    "status": "empty"
+    "name": "Elizabeth Gordon Stilwell",
+    "profile": "media/22/profile.jpg",
+    "samples": [
+      "media/22/sample_1.webp",
+      "media/22/sample_2.webp",
+      "media/22/sample_3.webp"
+    ],
+    "sources": {},
+    "status": "cached",
+    "error": null
   },
   {
     "id": 23,
-    "name": "Vilma Duplantier",
+    "name": "Abigail Ford",
     "profile": "media/23/profile.jpg",
-    "samples": [],
-    "status": "partial"
+    "samples": [
+      "media/23/sample_1.jpg",
+      "media/23/sample_2.jpg",
+      "media/23/sample_3.jpg"
+    ],
+    "sources": {},
+    "status": "cached",
+    "error": null
   },
   {
     "id": 24,
-    "name": "Lori ortiz",
-    "profile": "media/24/profile.jpg",
-    "samples": [
-      "media/24/sample_1.jpg",
-      "media/24/sample_2.jpg",
-      "media/24/sample_3.jpg"
-    ],
-    "status": "ok"
-  },
-  {
-    "id": 25,
-    "name": "nikki hartmann",
-    "profile": null,
-    "samples": [],
-    "status": "empty"
-  },
-  {
-    "id": 26,
     "name": "Sekou Copeland",
     "profile": null,
     "samples": [],
-    "status": "empty"
+    "sources": {
+      "site": "https://Livetilldeath.shop.com",
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
+  },
+  {
+    "id": 25,
+    "name": "Devin joos",
+    "profile": "media/25/profile.jpg",
+    "samples": [
+      "media/25/sample_1.png",
+      "media/25/sample_2.jpg",
+      "media/25/sample_3.jpg"
+    ],
+    "sources": {},
+    "status": "cached",
+    "error": null
+  },
+  {
+    "id": 26,
+    "name": "Klara Grochulska",
+    "profile": "media/26/profile.jpg",
+    "samples": [
+      "media/26/sample_1.jpg",
+      "media/26/sample_2.jpg",
+      "media/26/sample_3.jpg"
+    ],
+    "sources": {},
+    "status": "cached",
+    "error": null
   },
   {
     "id": 27,
-    "name": "Hand Coffman",
+    "name": "Klara Grochulska",
     "profile": "media/27/profile.jpg",
     "samples": [
       "media/27/sample_1.jpg",
       "media/27/sample_2.jpg",
       "media/27/sample_3.jpg"
     ],
-    "status": "ok"
+    "sources": {},
+    "status": "cached",
+    "error": null
   },
   {
     "id": 28,
-    "name": "Hayden Brown",
+    "name": "Kerolyn Jimenez",
     "profile": null,
     "samples": [],
-    "status": "empty"
+    "sources": {
+      "site": null,
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
   },
   {
     "id": 29,
-    "name": "Chad eary",
+    "name": "Jiadai He",
     "profile": null,
     "samples": [],
-    "status": "empty"
+    "sources": {
+      "site": "https://jiadai.archives",
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
   },
   {
     "id": 30,
-    "name": "Alexander Kwabena Dwumor",
+    "name": "Xing Chen",
     "profile": null,
     "samples": [],
-    "status": "empty"
+    "sources": {},
+    "status": "no_links",
+    "error": "No portfolio or Instagram"
   },
   {
     "id": 31,
-    "name": "Abdallatif Ali",
-    "profile": null,
-    "samples": [],
-    "status": "empty"
+    "name": "Rebeca Zimmermann",
+    "profile": "media/31/profile.png",
+    "samples": [
+      "media/31/sample_1.jpg",
+      "media/31/sample_2.jpg",
+      "media/31/sample_3.png"
+    ],
+    "sources": {},
+    "status": "cached",
+    "error": null
   },
   {
     "id": 32,
-    "name": "Michelle Biagi",
-    "profile": "media/32/profile.jpg",
-    "samples": [
-      "media/32/sample_1.jpg",
-      "media/32/sample_2.jpg",
-      "media/32/sample_3.jpg"
-    ],
-    "status": "ok"
+    "name": "Lucy Schwartzreich",
+    "profile": null,
+    "samples": [],
+    "sources": {
+      "site": "https://drive.google.com/file/d/1fhKXbJKiwb3bFdia46N0PN3G4ZayzcQL/view?usp=sharing",
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
   },
   {
     "id": 33,
-    "name": "Danielle Gadus",
-    "profile": null,
+    "name": "Carey Linda Crooks",
+    "profile": "media/33/profile.png",
     "samples": [],
-    "status": "empty"
+    "sources": {
+      "site": "https://Careylindacrooks.com",
+      "instagram": null
+    },
+    "status": "partial",
+    "error": null
   },
   {
     "id": 34,
-    "name": "Danielle Parsons",
+    "name": "Qiaoyi",
     "profile": "media/34/profile.jpg",
     "samples": [
       "media/34/sample_1.jpg",
       "media/34/sample_2.jpg",
       "media/34/sample_3.jpg"
     ],
-    "status": "ok"
+    "sources": {},
+    "status": "cached",
+    "error": null
   },
   {
     "id": 35,
-    "name": "Jake Gibson",
-    "profile": null,
-    "samples": [],
-    "status": "empty"
+    "name": "Jeewon Kim",
+    "profile": "media/35/profile.png",
+    "samples": [
+      "media/35/sample_1.jpg",
+      "media/35/sample_2.png",
+      "media/35/sample_3.png"
+    ],
+    "sources": {},
+    "status": "cached",
+    "error": null
   },
   {
     "id": 36,
-    "name": "Corey Robinson",
-    "profile": "media/36/profile.jpg",
-    "samples": [
-      "media/36/sample_1.jpg",
-      "media/36/sample_2.jpg",
-      "media/36/sample_3.jpg"
-    ],
-    "status": "ok"
-  },
-  {
-    "id": 37,
-    "name": "Ryder Mamo",
-    "profile": "media/37/profile.png",
-    "samples": [
-      "media/37/sample_1.webp",
-      "media/37/sample_2.webp",
-      "media/37/sample_3.webp"
-    ],
-    "status": "ok"
-  },
-  {
-    "id": 38,
-    "name": "Camoni McClellan",
-    "profile": null,
-    "samples": [],
-    "status": "empty"
-  },
-  {
-    "id": 39,
-    "name": "Samuel Abelow",
-    "profile": null,
-    "samples": [],
-    "status": "empty"
-  },
-  {
-    "id": 40,
-    "name": "Maryangela",
-    "profile": "media/40/profile.jpg",
-    "samples": [
-      "media/40/sample_1.jpg",
-      "media/40/sample_2.jpg"
-    ],
-    "status": "partial"
-  },
-  {
-    "id": 41,
-    "name": "Sky Morales",
-    "profile": null,
-    "samples": [],
-    "status": "empty"
-  },
-  {
-    "id": 42,
-    "name": "Devin joos",
-    "profile": "media/42/profile.jpg",
-    "samples": [
-      "media/42/sample_1.png",
-      "media/42/sample_2.jpg",
-      "media/42/sample_3.jpg"
-    ],
-    "status": "ok"
-  },
-  {
-    "id": 43,
-    "name": "Lucy Schwartzreich",
-    "profile": null,
-    "samples": [],
-    "status": "empty"
-  },
-  {
-    "id": 44,
-    "name": "Lili Price",
-    "profile": null,
-    "samples": [],
-    "status": "empty"
-  },
-  {
-    "id": 45,
-    "name": "Carey Linda Crooks",
-    "profile": "media/45/profile.png",
-    "samples": [],
-    "status": "partial"
-  },
-  {
-    "id": 46,
-    "name": "Qiaoyi",
-    "profile": "media/46/profile.jpg",
-    "samples": [
-      "media/46/sample_1.jpg",
-      "media/46/sample_2.jpg",
-      "media/46/sample_3.jpg"
-    ],
-    "status": "ok"
-  },
-  {
-    "id": 47,
-    "name": "Zoe",
-    "profile": "media/47/profile.png",
-    "samples": [
-      "media/47/sample_1.png",
-      "media/47/sample_2.png",
-      "media/47/sample_3.jpg"
-    ],
-    "status": "ok"
-  },
-  {
-    "id": 48,
-    "name": "Jeewon Kim",
-    "profile": "media/48/profile.png",
-    "samples": [
-      "media/48/sample_1.jpg",
-      "media/48/sample_2.png",
-      "media/48/sample_3.png"
-    ],
-    "status": "ok"
-  },
-  {
-    "id": 49,
-    "name": "Fumi Hata",
-    "profile": "media/49/profile.webp",
-    "samples": [],
-    "status": "partial"
-  },
-  {
-    "id": 50,
     "name": "Samantha Alvarez",
     "profile": null,
     "samples": [],
-    "status": "empty"
+    "sources": {
+      "site": "https://drive.google.com/file/d/11NmllmY-R3FnIT_4UYwj03k675_4qGzC/view?usp=drivesdk",
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
+  },
+  {
+    "id": 37,
+    "name": "Molly Milkers",
+    "profile": null,
+    "samples": [],
+    "sources": {
+      "site": null,
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
+  },
+  {
+    "id": 38,
+    "name": "Tianqi Luo",
+    "profile": null,
+    "samples": [],
+    "sources": {
+      "site": null,
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
+  },
+  {
+    "id": 39,
+    "name": "Manu",
+    "profile": null,
+    "samples": [],
+    "sources": {
+      "site": "https://www.instagram.com/manurodrigvez",
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
+  },
+  {
+    "id": 40,
+    "name": "Lily Pebworth",
+    "profile": "media/40/profile.jpg",
+    "samples": [],
+    "sources": {
+      "site": "https://wetransfer.com/downloads/f671efe68f8931986f4901f13e41afd720260828120438/e110ec",
+      "instagram": null
+    },
+    "status": "partial",
+    "error": null
+  },
+  {
+    "id": 41,
+    "name": "Sarah Lou Haddad",
+    "profile": null,
+    "samples": [],
+    "sources": {
+      "site": "https://docs.google.com/presentation/d/1qdcA-uu_pqlYr7hwWBRQe1bpg8e4lzUq/edit?usp=drivesdk&ouid=101203732195665307311&rtpof=true&sd=true",
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
+  },
+  {
+    "id": 42,
+    "name": "Mengxi Zhang",
+    "profile": "media/42/profile.jpg",
+    "samples": [],
+    "sources": {
+      "site": "https://mengxiart.com",
+      "instagram": null
+    },
+    "status": "partial",
+    "error": null
+  },
+  {
+    "id": 43,
+    "name": "Tori Cho",
+    "profile": "media/43/profile.jpg",
+    "samples": [
+      "media/43/sample_1.jpg",
+      "media/43/sample_2.jpg",
+      "media/43/sample_3.jpg"
+    ],
+    "sources": {
+      "site": "https://toricho.com",
+      "instagram": null
+    },
+    "status": "ok",
+    "error": null
+  },
+  {
+    "id": 44,
+    "name": "Eevee",
+    "profile": null,
+    "samples": [],
+    "sources": {
+      "site": "https://elderwizards.magicstickers",
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
+  },
+  {
+    "id": 45,
+    "name": "Vilma Duplantier",
+    "profile": "media/45/profile.jpg",
+    "samples": [],
+    "sources": {
+      "site": "https://www.artemisbeasts.com/",
+      "instagram": null
+    },
+    "status": "partial",
+    "error": null
+  },
+  {
+    "id": 46,
+    "name": "nikki hartmann",
+    "profile": null,
+    "samples": [],
+    "sources": {
+      "site": null,
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
+  },
+  {
+    "id": 47,
+    "name": "Hand Coffman",
+    "profile": "media/47/profile.jpg",
+    "samples": [
+      "media/47/sample_1.jpg",
+      "media/47/sample_2.jpg",
+      "media/47/sample_3.jpg"
+    ],
+    "sources": {},
+    "status": "cached",
+    "error": null
+  },
+  {
+    "id": 48,
+    "name": "Chad eary",
+    "profile": null,
+    "samples": [],
+    "sources": {
+      "site": null,
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
+  },
+  {
+    "id": 49,
+    "name": "Abdallatif Ali",
+    "profile": null,
+    "samples": [],
+    "sources": {
+      "site": null,
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
+  },
+  {
+    "id": 50,
+    "name": "Michelle Biagi",
+    "profile": "media/50/profile.jpg",
+    "samples": [
+      "media/50/sample_1.jpg",
+      "media/50/sample_2.jpg",
+      "media/50/sample_3.jpg"
+    ],
+    "sources": {},
+    "status": "cached",
+    "error": null
   },
   {
     "id": 51,
-    "name": "Janeiry Martinez",
+    "name": "Danielle Gadus",
     "profile": null,
     "samples": [],
-    "status": "empty"
+    "sources": {
+      "site": "https://daniellegadus.com/",
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
   },
   {
     "id": 52,
-    "name": "Randall Xiao",
-    "profile": null,
-    "samples": [],
-    "status": "empty"
+    "name": "Corey Robinson",
+    "profile": "media/52/profile.jpg",
+    "samples": [
+      "media/52/sample_1.jpg",
+      "media/52/sample_2.jpg",
+      "media/52/sample_3.jpg"
+    ],
+    "sources": {},
+    "status": "cached",
+    "error": null
   },
   {
     "id": 53,
-    "name": "Mia Lee Broadie",
+    "name": "Camoni McClellan",
     "profile": null,
     "samples": [],
-    "status": "empty"
+    "sources": {
+      "site": null,
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
   },
   {
     "id": 54,
-    "name": "Elizabeth Gordon Stilwell",
-    "profile": "media/54/profile.jpg",
-    "samples": [
-      "media/54/sample_1.webp",
-      "media/54/sample_2.webp",
-      "media/54/sample_3.webp"
-    ],
-    "status": "ok"
+    "name": "Samuel Abelow",
+    "profile": null,
+    "samples": [],
+    "sources": {
+      "site": "https://drive.google.com/file/d/1AdU19FmgjeB_mffGdLGS1K0JcJ5n48WL/view?usp=sharing",
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
   },
   {
     "id": 55,
-    "name": "Klara Grochulska",
+    "name": "Maryangela",
     "profile": "media/55/profile.jpg",
     "samples": [
       "media/55/sample_1.jpg",
       "media/55/sample_2.jpg",
       "media/55/sample_3.jpg"
     ],
-    "status": "ok"
+    "sources": {
+      "site": "https://msrstudio.cargo.site/",
+      "instagram": null
+    },
+    "status": "ok",
+    "error": null
   },
   {
     "id": 56,
-    "name": "Klara Grochulska",
-    "profile": "media/56/profile.jpg",
+    "name": "Lili Price",
+    "profile": null,
+    "samples": [],
+    "sources": {
+      "site": "https://www.lilipriceportfolio.com",
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
+  },
+  {
+    "id": 57,
+    "name": "Iris Yu",
+    "profile": "media/57/profile.webp",
     "samples": [
-      "media/56/sample_1.jpg",
-      "media/56/sample_2.jpg",
-      "media/56/sample_3.jpg"
+      "media/57/sample_1.webp",
+      "media/57/sample_2.webp",
+      "media/57/sample_3.webp"
     ],
-    "status": "ok"
+    "sources": {
+      "site": "https://www.irisyuart.com/",
+      "instagram": null
+    },
+    "status": "ok",
+    "error": null
+  },
+  {
+    "id": 58,
+    "name": "Lasha",
+    "profile": "media/58/profile.webp",
+    "samples": [
+      "media/58/sample_1.webp"
+    ],
+    "sources": {
+      "site": "https://lashapepper.com",
+      "instagram": null
+    },
+    "status": "partial",
+    "error": null
+  },
+  {
+    "id": 59,
+    "name": "Chad",
+    "profile": null,
+    "samples": [],
+    "sources": {
+      "site": null,
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
+  },
+  {
+    "id": 60,
+    "name": "Liz Eagles",
+    "profile": "media/60/profile.jpg",
+    "samples": [],
+    "sources": {
+      "site": "https://Elizabetheagles.com",
+      "instagram": null
+    },
+    "status": "partial",
+    "error": null
+  },
+  {
+    "id": 61,
+    "name": "Ben Griffin",
+    "profile": "media/61/profile.png",
+    "samples": [
+      "media/61/sample_1.png",
+      "media/61/sample_2.jpg",
+      "media/61/sample_3.png"
+    ],
+    "sources": {},
+    "status": "cached",
+    "error": null
+  },
+  {
+    "id": 62,
+    "name": "Danielle Parsons",
+    "profile": "media/62/profile.jpg",
+    "samples": [
+      "media/62/sample_1.jpg",
+      "media/62/sample_2.jpg",
+      "media/62/sample_3.jpg"
+    ],
+    "sources": {},
+    "status": "cached",
+    "error": null
+  },
+  {
+    "id": 63,
+    "name": "Sky Morales",
+    "profile": null,
+    "samples": [],
+    "sources": {
+      "site": "https://docs.google.com/presentation/d/1-YfT-L4Arv2x0I31VcngfUuZExHYYsYgqY-Q2QHLC78/edit?usp=drivesdk",
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
+  },
+  {
+    "id": 64,
+    "name": "Javontae",
+    "profile": "media/64/profile.jpg",
+    "samples": [
+      "media/64/sample_1.jpg",
+      "media/64/sample_2.jpg",
+      "media/64/sample_3.jpg"
+    ],
+    "sources": {
+      "site": "https://jaysthirdeye-visuals.merlin-site.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRleAUjgrBleHRuA2FlbQIxMQBwZG9mAmZkaWQWUPE_ugkRDmCRjfGQM_QtBAK442zvcnNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp61CYMk_rCFAWoyo8MVpcAD3dckuipbIKlwcCNATsYvSICDtQ6fchoH0KDMs_aem_xM0HjJtz3ZK_WIXJjGa-FA",
+      "instagram": null
+    },
+    "status": "ok",
+    "error": null
+  },
+  {
+    "id": 65,
+    "name": "koto",
+    "profile": "media/65/profile.jpg",
+    "samples": [],
+    "sources": {
+      "site": "https://koto9x.asgardstud.io/",
+      "instagram": null
+    },
+    "status": "partial",
+    "error": null
+  },
+  {
+    "id": 66,
+    "name": "Zander Moon",
+    "profile": "media/66/profile.jpg",
+    "samples": [
+      "media/66/sample_1.jpg",
+      "media/66/sample_2.jpg",
+      "media/66/sample_3.png"
+    ],
+    "sources": {
+      "site": "https://zander-moon.neocities.org/?utm_source=ig&utm_medium=social&utm_content=link_in_bio",
+      "instagram": null
+    },
+    "status": "ok",
+    "error": null
+  },
+  {
+    "id": 67,
+    "name": "Amani Kojo",
+    "profile": null,
+    "samples": [],
+    "sources": {
+      "site": "https://drive.google.com/drive/folders/1fjvSiqF6sUj4ljMtyTwvAoL3f6KyImOt?usp=sharing",
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
+  },
+  {
+    "id": 68,
+    "name": "Kate Barbee",
+    "profile": "media/68/profile.jpg",
+    "samples": [
+      "media/68/sample_1.jpg"
+    ],
+    "sources": {
+      "site": "https://Www.katebarbeeart.com",
+      "instagram": null
+    },
+    "status": "partial",
+    "error": null
+  },
+  {
+    "id": 69,
+    "name": "Yixin",
+    "profile": "media/69/profile.jpg",
+    "samples": [],
+    "sources": {
+      "site": "https://melcho.com",
+      "instagram": null
+    },
+    "status": "partial",
+    "error": null
+  },
+  {
+    "id": 70,
+    "name": "Jason Knight",
+    "profile": "media/70/profile.jpg",
+    "samples": [
+      "media/70/sample_1.jpg",
+      "media/70/sample_2.jpg",
+      "media/70/sample_3.jpg"
+    ],
+    "sources": {
+      "site": "https://jasonknight.xyz",
+      "instagram": null
+    },
+    "status": "ok",
+    "error": null
+  },
+  {
+    "id": 71,
+    "name": "Destiny Martinez",
+    "profile": null,
+    "samples": [],
+    "sources": {
+      "site": null,
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
+  },
+  {
+    "id": 72,
+    "name": "Anice",
+    "profile": "media/72/profile.jpg",
+    "samples": [
+      "media/72/sample_1.jpg",
+      "media/72/sample_2.jpg",
+      "media/72/sample_3.jpg"
+    ],
+    "sources": {
+      "site": "https://www.anicejee.art",
+      "instagram": null
+    },
+    "status": "ok",
+    "error": null
+  },
+  {
+    "id": 73,
+    "name": "Paige Esposito",
+    "profile": "media/73/profile.jpg",
+    "samples": [
+      "media/73/sample_1.png",
+      "media/73/sample_2.jpg",
+      "media/73/sample_3.jpg"
+    ],
+    "sources": {
+      "site": "https://paigeardenart.weebly.com/",
+      "instagram": null
+    },
+    "status": "ok",
+    "error": null
+  },
+  {
+    "id": 74,
+    "name": "Jean Ding",
+    "profile": null,
+    "samples": [],
+    "sources": {
+      "site": "https://www.instagram.com/wic.cocktail?stkn=MTZ4dmR3amJzcmt4aQ%3D%3D&utm_source=qr",
+      "instagram": null
+    },
+    "status": "empty",
+    "error": "No images found"
   }
 ]
